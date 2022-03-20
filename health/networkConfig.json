@@ -1,0 +1,9 @@
+{
+    "channels": ["ch1"],
+    "topology": {
+      "org1": {
+        "channels": ["ch1"],
+        "users": ["user1"]
+      }
+    }
+  }
